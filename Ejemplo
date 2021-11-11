@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Primer commit"
+git remote add origin https://github.com/Dchavezsan/dchavezsan.github.io.git
+git branch -M main
+git push -u origin main
